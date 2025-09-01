@@ -27,48 +27,48 @@ Criar diversas consultas, com o objetivo de retornar os dados a seguir. Abaixo d
 
 <img src="Imagens/2.png" width="300"/>
 
-### 3 - Buscar pelo filme de volta para o futuro, trazendo o nome, ano e a duração
+### 3️⃣ - Buscar pelo filme de volta para o futuro, trazendo o nome, ano e a duração
 
 <img src="Imagens/3.png" width="300"/>
 
-### 4 - Buscar os filmes lançados em 1997
+### 4️⃣ - Buscar os filmes lançados em 1997
 
 <img src="Imagens/4.png" width="300"/>
 
-### 5 - Buscar os filmes lançados APÓS o ano 2000
+### 5️⃣ - Buscar os filmes lançados APÓS o ano 2000
 
 <img src="Imagens/5.png" width="300"/>
 
-### 6 - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duracao em ordem crescente
+### 6️⃣ - Buscar os filmes com a duracao maior que 100 e menor que 150, ordenando pela duracao em ordem crescente
 
 <img src="Imagens/6.png" width="300"/>
 
-### 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
+### 7️⃣ - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
 
 <img src="Imagens/7.png" width="300"/>
 
-### 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
+### 8️⃣ - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
 
 <img src="Imagens/8.png" width="300"/>
 
-### 9 - Buscar os Atores do gênero feminino, retornando o PrimeiroNome, UltimoNome, e ordenando pelo PrimeiroNome
+### 9️⃣ - Buscar os Atores do gênero feminino, retornando o PrimeiroNome, UltimoNome, e ordenando pelo PrimeiroNome
 
 <img src="Imagens/9.png" width="300"/>
 
-### 10 - Buscar o nome do filme e o gênero
+### 🔟 - Buscar o nome do filme e o gênero
 
 <img src="Imagens/10.png" width="300"/>
 
-### 11 - Buscar o nome do filme e o gênero do tipo "Mistério"
+### 1️⃣1️⃣ - Buscar o nome do filme e o gênero do tipo "Mistério"
 
 <img src="Imagens/11.png" width="300"/>
 
-### 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
+### 1️⃣2️⃣ - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 <img src="Imagens/12.png" width="450"/>
 
 
-## Resolução
+## ✅ Resolução
 Você pode encontrar a minha resolução deste desafio  ([clicando aqui](Desafio_Resolvido.sql)) 
 
 ## 📬 Contato
