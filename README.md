@@ -1,11 +1,11 @@
-# 🏨 DIO - Sistema de Hospedagem de Hotel
+# 🏨 DIO - Criação de Consultas para o site Filmes
 Este desafio de projeto foi desenvolvido no módulo de banco de dados, da trilha .NET da DIO, do Bootcamp **Deal Group AI Centric .NET**.
 
 ## 📚 Contexto
 Existe um banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado a realização de uma consulta no banco de dados com o objetivo de realizar 12 consultas ao banco de dados, cada uma retornando um tipo de informação.
 
 ## Resolução
-Você pode encontrar a minha resolução deste desafio clicando aqui
+Você pode encontrar a minha resolução deste desafio  ([clicando aqui](Desafio_Resolvido.sql))  
 
 O banco de dados está modelado da seguinte maneira:
 
